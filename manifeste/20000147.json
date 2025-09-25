@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000147.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000147"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000147"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Theaterplakat - \"Hłuboke korjenje\""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat \"Hłuboke korjenje\" - 1963"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1963"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["blau - weiß (Hintergrund) & weiß - schwarz (Schrift)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["1963 warb das Sorbische Volkstheater mit diesem Plakat für die sorbische Inszenierung des Stückes \"Tiefe Wurzeln\" (\"Hłuboke korjenje\" bzw. \"Čornuch Bert\") von James E. Gow und Arnaud d'Usseau. Das Plakat hat einen dunkelblauen Hintergrund, auf dem sich zwei weiße Trapeze überlappen. Hellblaue Flächen entstehen dort, wo nur der Hintergrund sichtbar bleibt. Im Zentrum befindet sich eine größere weiße Fläche. Oben im ersten Viertel wird der sorbische Name des Theaters in großen weißen Großbuchstaben genannt, darunter in kleineren weißen Buchstaben der Hinweis auf den Ćišinski-Preis und der Name des Intendanten Jurij Wuješ. In der weißen Fläche ist die Beschriftung in schwarzer Schrift: die Titel \"Hłuboke korjenje\" und \"Čornuch Bert\", die Autoren James E. Gow und Arnaud d'Usseau, der deutsche Titel \"Tiefe Wurzeln\" in Klammern, die Bezeichnung als Schauspiel in drei Akten, Regie von Harald Moszdorf, Bühnenbild Walter Jahn, Schauspieler auf zwei Zeilen. Unten in fettgedruckter, kleiner Schrift das Aufführungsdatum 24. Februar 1963 in obersorbischer Sprache sowie Klitten als Ort, darunter dasselbe in deutscher Sprache. Beginn 20.00 Uhr und Freistelle für Busabfahrt am unteren Rand."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["60,5 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["43,5 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": ["Proschmann"]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbisches Theater & Theaterplakat & Sorbisches Volkstheater"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["eher schlecht & Faltkante (Exemplar a) & Einrisse (erheblich, Exemplar a) & Loch (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.18"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000147_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000147",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000147"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000147",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000147-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000147_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000147"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
