@@ -49,7 +49,7 @@
               "motivation": "painting",
               "body": {
                 "type": "Image"
-                /* Bild-URL und service weggelassen */
+               
               },
               "target": "https://github.com/tessapohle/Pilot_Plakate/canvas/20000131-1"
             }
