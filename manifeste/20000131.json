@@ -1,11 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000131.json",
+  "id": "https://example.org/manifeste/20000131.json",
   "type": "Manifest",
-  "label": { "de": ["Pilot_Erstdigitalisierung Plakate SM"] },
+  "label": { "de": ["Pilot_Plakate"] },
   "metadata": [
     {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000131"]}},
     {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000131 (a,b)"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Šćitaj swojich rukow - źěło! - Wol kandidatow - Nacionalneje fronty!"]}},
     {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
     {"label": {"de": ["Typ"]}, "value": {"de": ["Werbeplakat - Wahlplakat - Šćitaj swojich rukow źěło - um 1950 (?)"]}},
     {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
@@ -14,19 +15,20 @@
     {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
     {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
     {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
-    {"label": {"de": ["Sprache"]}, "value": {"de": ["Niedersorbisch"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Niedersorbisch)"]}},
     {"label": {"de": ["Schrift"]}, "value": {"de": ["braun (Schrift)"]}},
     {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
-    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Wahlplakat von 1961 soll Stimmen für die Kandidaten der Nationalen Front werben. Es ist in niedersorbischer Sprache und brauner Schriftfarbe gestaltet. Der Wahlspruch 'Schütze die Arbeit deiner Hände! (Šćitaj swojich rukow - źěło!)' fällt sofort auf, da er beinahe das gesamte Plakat einnimmt. In der rechten, unteren Ecke findet sich in kleiner Schrift auf zwei Zeilen die Aufforderung die Kandidaten der Nationalen Front zu wählen ('Wol kandidatow - Nacionalneje fronty!')."]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Wahlplakat von 1961 soll Stimmen für die Kandidaten der Nationalen Front werben. Es ist in niedersorbischer Sprache und brauner Schriftfarbe gestaltet. Der Wahlspruch \"Šćitaj swojich rukow - źěło!\" fällt sofort auf, da er beinahe das gesamte Plakat einnimmt. In der rechten, unteren Ecke findet sich in kleiner Schrift auf zwei Zeilen die Aufforderung die Kandidaten der Nationalen Front zu wählen (\"Wol kandidatow - Nacionalneje fronty!\")"]}},
     {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
     {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
-    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["25,0"]}},
-    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["60,0"]}},
-    {"label": {"de": ["Autor/Künstler"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["25,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["60,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
     {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["Werbeplakat & Wahplakat & sorbische Geschichte & DDR Geschichte"]}},
     {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplare a/b)"]}},
-    {"label": {"de": ["Bearbeiter"]}, "value": {"de": ["Schenk, Daniela"]}},
-    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.14"]}}
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.14"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["SM-Pl-A-000131 Abb01"]}}
   ],
   "rights": "http://creativecommons.org/licenses/by/3.0/",
   "viewingDirection": "left-to-right",
@@ -34,7 +36,7 @@
     {
       "id": "about:blank",
       "type": "Canvas",
-      "label": {"de": ["Canvas Placeholder"]},
+      "label": {"de": ["Platzhalter-Canvas"]},
       "height": 1000,
       "width": 1000,
       "items": [
@@ -48,7 +50,6 @@
               "motivation": "painting",
               "body": {
                 "type": "Image"
-                /* Kein Bild eingebettet */
               },
               "target": "about:blank"
             }
