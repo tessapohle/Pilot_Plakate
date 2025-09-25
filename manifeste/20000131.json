@@ -1,9 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://github.com/tessapohle/Pilot_Plakate/manifeste/20000131.json",
+  "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000131.json",
   "type": "Manifest",
   "label": { "de": ["Pilot_Erstdigitalisierung Plakate SM"] },
-  
   "metadata": [
     {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000131"]}},
     {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000131 (a,b)"]}},
@@ -33,24 +32,25 @@
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "https://github.com/tessapohle/Pilot_Plakate/canvas/20000131-1",
+      "id": "about:blank",
       "type": "Canvas",
-      "label": { "de": ["Pilot_Erstdigitalisierung Plakate SM"] },
+      "label": {"de": ["Canvas Placeholder"]},
       "height": 1000,
       "width": 1000,
       "items": [
         {
-          "id": "https://github.com/tessapohle/Pilot_Plakate/annotationpage/20000131-1",
+          "id": "about:blank",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://github.com/tessapohle/Pilot_Plakate/annotation/20000131-1",
+              "id": "about:blank",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "type": "Image"
+                /* Kein Bild eingebettet */
               },
-              "target": "https://github.com/tessapohle/Pilot_Plakate/canvas/20000131-1"
+              "target": "about:blank"
             }
           ]
         }
