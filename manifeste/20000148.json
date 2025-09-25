@@ -1,0 +1,64 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000148.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000148"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000148 (a-c)"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Veranstaltungsplakat \"Domowina wjesoły a zabawny wječor\""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Veranstaltungsplakat \"Domowina wjesoły a zabawny wječor\" - 1963(?)"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1963 oder 1968?"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Budyšin & Bautzen"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["hellblau (Hintergrund) & rot - blau (Schrift)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["1963 veranstaltete die Domowina einen \"fröhlichen Unterhaltungsabend\" mit einem bunten Programm. Das Plakat hat einen hellblauen Hintergrund. Oben wird die Domowina als Veranstalter in blauer, obersorbischer Schrift genannt. Darunter folgt in kleiner blauer Schrift eine Einladung zum fröhlichen Abend (obersorbisch). In großer roter Schrift wird der Abend als \"fröhlicher und unterhaltsamer Abend\" angekündigt. Es folgen sieben blau konturierte Kästen, die in drei Spalten angeordnet sind, mit den Mitwirkenden des Programms. Namen der Personen oder Gruppen in roter Schrift, ihre Aufgaben in kleiner blauer Schrift (obersorbisch & deutsch). Im dritten Kasten der mittleren Spalte wird eine Tanzveranstaltung angekündigt. Unter der Anordnung wird der Einladungssatz in deutscher Sprache wiederholt. Zwei blaue Linien trennen die Eintritspreise am unteren Plakatrand (allgemein 2,60 DM; Rentner/Schüler: 1,60 DM). Angaben zu Datum, Ort und Beginn fehlen."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["45,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["60,0 cm"]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["Veranstaltungsplakat & sorbische Geschichte & Domowina"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["eher schlecht & Faltkante (Exemplar a/b) & Flecken (Exemplar b, bei Exemplar c großflächig) & Einrisse (leicht bei Exemplar b, geklebt bei Exemplar c) & Verschmutzung (Exemplar c)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.21"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000148_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000148",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000148"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000148",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000148-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000148_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000148"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
