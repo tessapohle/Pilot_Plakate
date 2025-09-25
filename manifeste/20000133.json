@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000133.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000133"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000133"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Serbske ludowe dźiwadło - Lawreat myta Ćišinskeho - Intendant Jurij Wuješ - Carlo Goldoni - Mirandolina - Klasiska komedija w jednym wobrazu - dźensa kaž před dwěsćě lětami - Režija: Walter Segler jako hósć z Lipska - Jewišćowy wobraz: Walther Jahn - Meja 25 Pjatk - Wojerecy/Hoyerswerda - Jarowči dwór/Kastanienhof - Započatk:20.00/30 hodź. - Beginn: 20.00/30 Uhr - Bus wotjědźe/Bus-Abfahrt:" ]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat \"Mirandolina\" 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["gelb - schwarz (Schrift) & blau - rot - weiß (Hintergrund)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat wirbt für die Aufführung eines Stückes von Carlo Goldoni mit dem Titel \"Mirandolina\" in einer Inszenierung des Sorbischen Volkstheaters. Die Beschriftung des Plakates ist, bis auf wenige Ausnahmen, in obersorbischer Sprache gehalten. Das Plakat hat einen blauen Hintergrund mit roten und weißen Flächen in verschiedenen Formen und Größen. Als Aufmacher am oberen Rand des Plakates dient der obersorbische Name des Sorbischen Volkstheaters (\"Serbske ludowe dźiwadło\") in gelben Großbuchstaben. In kleineren gelben Großbuchstaben wird hinzugefügt, dass das Theater Träger des Ćišinski-Preises ist (\"Lawreat myta Ćišinskeho\"). Links darunter wird Jurij Wuješ als Intendant angegeben. Unterhalb der gelben Beschriftung wird ein Großteil des Plakates von einer roten Fläche eingenommen. Im Zentrum befindet sich eine weiße Fläche mit Autor und Titel des Stückes in schwarzer Schrift. Unterhalb der weißen Fläche setzt sich der rote Hintergrund fort, mit weiteren Informationen zum Stück, Inszenierung und Aufführung. Der Regisseur Walter Segler wird als Gast aus Leipzig genannt, Walther Jahn für das Bühnenbild. Aufführungsort ist Hoyerswerda (sorbisch & deutsch), Kastanienhof. Die ursprüngliche Beginnzeit 20.00 Uhr wurde auf 20.30 Uhr geändert. Unten befindet sich eine Freistelle für Busabfahrt, links daneben eine weitere weiße Fläche mit dem Datum der Aufführung (Meja 25 Pjatk) in schwarzer Schrift."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["30,5 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbisches Theater & Sorbisches Volkstheater & Theaterplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Verschmutzung (Exemplar a) & Einrisse (leicht, Exemplar a) & Faltkante (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.15"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000133_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000133",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000133"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000133",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000133-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000133_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000133"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
