@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/manifeste/20000131.json",
+  "id": "https://github.com/tessapohle/Pilot_Plakate/manifeste/20000131.json",
   "type": "Manifest",
   "label": { "de": ["Pilot_Plakate"] },
   "metadata": [
