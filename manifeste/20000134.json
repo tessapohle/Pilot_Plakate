@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000134.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000134"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000134 (a,b) - Nowak-Neumann, Martin & Nowak-Njechorński, Měrćin"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["50 lět - Domowina - 30. junija a 1. julija 1962 - w Borkowach - Župny zjězd - Sobotu, 30. junija 1962 - .... - Njeźelu, 1. julija 1962 - .... - Wot 19.00 goź. Reja w \"Gosćeńcu Wendig\" a \"Hotelu Błota\""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Veranstaltungsplakat \"Župny zjězd w Borkowach\" - 1962"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1962"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Niedersorbisch) & Lindenblattemblem der Domowina & junge Frau in niedersorbiescher Tracht"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["rot - blau (Schrift) & weiß - blau (Darstellung)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Anlässlich des 50-jährigen Jubiläums des Domowina-Verbandes in Burg. Die Beschriftung des Plakates ist in niedersorbischer Sprache gehalten. Rechts oben befindet sich eine blau-weiße Darstellung einer jungen Frau in niedersorbischer Tracht mit Stab in den Armen. Hintergrund: Bäume und sorbisches Bauernhaus mit Giebelverzierung. Links oben: blau konturierter Kasten mit Ankündigung des 50-jährigen Jubiläums, Zahl 50 und Wort 'lět', Lindenblattemblem der Domowina durchbricht den Kasten, Name des Verbandes darunter. Veranstaltungsdaten: 30. Juni und 1. Juli 1962 in blau, Veranstaltungsort Burg/Borkowy in roter Schrift. Unterhalb: Verbandskongress 'Župny zjězd' in roten Großbuchstaben. Blau konturierter Kasten nimmt zweite Hälfte des Plakates ein, listet Programmpunkte: 30. Juni Sport der Jungen Pioniere 16.00 Uhr, Tanz 19.30 Uhr im Gasthaus Wendig/Hotel Spreewald; 1. Juli Vormittag DTSB/GST/Konzert Hafen, Nachmittag Festumzug 14.00 Uhr, Kulturprogramm 15.00 Uhr, Ensemble ČSSR 16.30 Uhr, Tanz 19.00 Uhr im Gasthaus Wendig/Hotel Spreewald."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["(a) Papier auf Pappe geklebt & (b) Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["70,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["50,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": ["Nowak-Neumann, Martin & Nowak-Njechorński, Měrćin"]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["Domowina & sorbische Geschichte & Martin Nowak-Neumann"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplarea/b) & Einrisse (leicht, Exemplar b)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.15"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000134_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000134",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000134"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000134",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000134-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000134_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000134"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
