@@ -1,81 +1,68 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "HIER_IIIF_MANIFEST_URL_EINFÜGEN",
-           "__comment__manifest_id": "URL, unter der das Manifest später abrufbar ist",
-  
+  "id": "https://example.org/manifest/20000131.json",
   "type": "Manifest",
-  "label": { "de": ["HIER_TITEL/KATEGORIE_EINFÜGEN"] },
-           "__comment__label": "Titel oder Kategorie des Objekts",
-
+  "label": { "de": ["Pilot_Plakate"] },
   "metadata": [
-    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Objektart"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Typ"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Gattung"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Jahr"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Institution"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Archiv"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Magazin"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Sprache"]}, "value": {"de": ["de"]}},
-    {"label": {"de": ["Schrift"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Zweck"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Material"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Technik"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Autor/Künstler"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Bearbeiter"]}, "value": {"de": ["HIER_EINFÜGEN"]}},
-    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["HIER_EINFÜGEN"]}}
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Material"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": [""]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": [""]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["OPTIONALE_IIIF_BILD_URL"]}}
   ],
-  
   "rights": "http://creativecommons.org/licenses/by/3.0/",
-            "__comment__rights": "Lizenz, unter der das Objekt veröffentlicht wird",
   "viewingDirection": "left-to-right",
-            "__comment__viewingDirection": "Richtung der Darstellung",
-
   "items": [
     {
-      "id": "Eindeutige URL für die Canvas-Seite (Website die das Manifest hostet)",
+      "id": "canvas-1",
       "type": "Canvas",
-      "label": { "de": ["HIER_TITEL/KATEGORIE_EINFÜGEN"] },
+      "label": {"de": ["Platzhalter-Canvas"]},
       "height": 1000,
       "width": 1000,
-            "__comment__canvas_size": "Bildhöhe und -breite in Pixeln",
-      
       "items": [
         {
-          "id": "Seite mit den Annotationen (Bilddaten), falls vorhanden",
+          "id": "annotationpage-1",
           "type": "AnnotationPage",
-          
           "items": [
             {
-              "id": "Seite mit den Annotationen (Bilddaten), falls vorhanden",
+              "id": "annotation-1",
               "type": "Annotation",
               "motivation": "painting",
-              
               "body": {
-                "id": "BILD-URL_IIIF",
+                "id": "OPTIONALE_IIIF_BILD_URL",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 1000,
                 "width": 1000,
-                    "__comment__body": "Hier wird die Bilddatei eingebunden",
-                
                 "service": [
                   {
-                    "@id": "BILD-URL_IIIF",
+                    "@id": "OPTIONALE_IIIF_BILD_URL",
                     "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level0.json",
-                        "__comment__service": "IIIF Image Service, ermöglicht Zoom/Funktionen"
+                    "profile": "http://iiif.io/api/image/2/level0.json"
                   }
                 ]
               },
-              "target": "https://example.org/iiif/canvas/DEINE_ARCHIVSIGNATUR-1"
+              "target": "canvas-1"
             }
           ]
         }
