@@ -1,68 +1,68 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/manifest/20000131.json",
+  "id": "<MANIFEST_URL>",
   "type": "Manifest",
-  "label": { "de": ["Pilot_Plakate"] },
+  "label": { "de": ["<TITEL>"] },
   "metadata": [
-    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Inventarnummer"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Titel"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Objektart"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Typ"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Gattung"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Jahr"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Verwahungsort"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Institution"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Archiv"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Magazin"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Sprache"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Schrift"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Zweck"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Beschreibung"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Material"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Technik"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Breite (cm)"]}, "value": {"de": [""]}},
-    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": [""]}},
-    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": [""]}},
-    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["OPTIONALE_IIIF_BILD_URL"]}}
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["<ARCHIVSIGNATUR>"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["<INVENTARNUMMER>"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["<OBJEKTTITEL>"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["<OBJEKTART>"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["<TYP>"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["<GATTUNG>"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["<JAHR>"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["<VERWAHRUNGSORT>"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["<INSTITUTION>"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["<ARCHIV>"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["<MAGAZIN>"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["<SPRACHE>"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["<SCHRIFTFARBE>"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["<ZWECK>"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["<BESCHREIBUNG>"]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["<MATERIAL>"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["<TECHNIK>"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["<HOEHE_CM>"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["<BREITE_CM>"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": ["<AUTOR>"]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["<THEMEN>"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["<ERHALTUNGSZUSTAND>"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["<BEARBEITER>"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["<ERFASSUNGSDATUM>"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["<BILD_URL>"]}}
   ],
-  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "rights": "<RECHTE_URL>",
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "canvas-1",
+      "id": "<CANVAS_URL>",
       "type": "Canvas",
-      "label": {"de": ["Platzhalter-Canvas"]},
-      "height": 1000,
-      "width": 1000,
+      "label": {"de": ["<CANVAS_LABEL>"]},
+      "height": <CANVAS_HOEHE>,
+      "width": <CANVAS_BREITE>,
       "items": [
         {
-          "id": "annotationpage-1",
+          "id": "<ANNOTATIONPAGE_URL>",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "annotation-1",
+              "id": "<ANNOTATION_URL>",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "OPTIONALE_IIIF_BILD_URL",
+                "id": "<BILD_URL>",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 1000,
-                "width": 1000,
+                "height": <BILD_HOEHE>,
+                "width": <BILD_BREITE>,
                 "service": [
                   {
-                    "@id": "OPTIONALE_IIIF_BILD_URL",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level0.json"
+                    "id": "<IIIF_BILD_URL>",
+                    "type": "ImageService3",
+                    "profile": "level2"
                   }
                 ]
               },
-              "target": "canvas-1"
+              "target": "<CANVAS_URL>"
             }
           ]
         }
