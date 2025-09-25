@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000144.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000144"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000144"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Serbow narodna winowatosć - Wahlaufruf Kurt Krjeńc"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat - \"Serbow narodna winowatosć\" - Wahlaufruf Kurt Krjeńc - 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift) & blau (Hintergrund) & Fotoportät Kurt Krjeńc"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat soll 1961 Stimmen für die Kandidaten der Nationalen Front der DDR werben. Dazu wurde ein Aufruf durch den damaligen Vorsitzenden der Domowina Kurt Krjeńc genutzt. Von diesem befindet sich ein relativ kleines Fotoporträt in der linken oberen Ecke, welches, aufgrund des blauen Hintergrundes, in den Farben schwarz und blau erscheint. Die Beschriftung, die den Rest des Plakates einnimmt, ist schwarz und in obersorbischer Sprache gehalten. In verhältnismäßig überdimensionaler Schrift ist die Rede von einer nationalen Pflicht der Sorben (\"Serbow narodna winowatosć\"). Auf den nächsten beiden Zeilen wird diese Pflicht als der Beitrag der Sorben zur Bewahrung des Friedens und der Erhaltung des Lebens erklärt. Ein Stück darunter wird beschrieben, wie die Sorben diese Pflicht erfüllen: durch ihre gemeinsamen Taten zur Festigung der DDR. Weiterhin werden die Sorben auf den nächsten zwei Zeilen dazu aufgefordert, ihre Entschlossenheit durch ihre Stimme für die Kandidaten der Nationalen Front am 17. September zum Ausdruck zu bringen. Unter dem Text wird der Name Kurt Krjeńc in fettgedruckter, etwas größerer Schrift angegeben. Rechts daneben wird in kleinerer Schrift darauf hingewiesen, dass Kurt Krjeńc Vorsitzender der Domowina ist."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["34,5 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["49,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Geschichte & DDR Geschichte & Wahlplakat & Domowina"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Einriss (leicht, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000144_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000144",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000144"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000144",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000144-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000144_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000144"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
