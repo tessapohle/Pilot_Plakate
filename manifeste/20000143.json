@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000143.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000143"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000143"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Heimatmuseum Burg Mylau - Ausstellung - Sorbische Volkskunst - mit Untertützung der Museen Bautzen und Hoyerswerda sowie des Institutes für sorbische Volksforschung, Bautzen - 10. September bis 4. Oktober 1964 - Geöffnet täglich 9 bis 17 Uhr"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Ausstellungsplakat \"Ausstellung sorbische Volkskunst\" 1964"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1964"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift) & blau (Hintergrund)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das schlichte Plakat wirbt für eine Ausstellung zum Thema Sorbische Volkskunst im Heimatmuseum der Burg Mylau. Die Beschriftung ist in schwarzer Schrift auf blauem Hintergrund und deutscher Sprache gehalten. Am linken oberen Plakatrand wird in kleiner Schrift als erstes das Heimatmuseum Burg Mylau als Ausstellungsort benannt. Dieser obere Teil wird von einer schwarzen Linie vom Hauptteil des Plakates abgetrennt. Im Hauptteil nimmt die Ankündigung der Ausstellung den meisten Raum ein. Das Wort \"Ausstellung\" findet sich in kleineren, fettgedruckten Buchstaben in der oberen linken Ecke unterhalb der schwarzen Linie. In verhältnismäßig überdimensionalen, fettgedruckten Buchstaben wird das Thema der Ausstellung \"Sorbische Volkskunst\" benannt. Links darunter wird in normaler, kleiner Schrift darüber informiert, dass die Ausstellung mit Unterstützung des Museums in Bautzen und Hoyerswerda sowie des Institutes für sorbische Volksforschung in Bautzen stattfindet. Rechts darunter wird in fettgedruckter Schrift der Ausstellungszeitraum vom 10. September bis zum 04. Oktober 1964 festgelegt. In der nächsten Zeile werden abschließend wieder in kleiner, normaler Schrift die Öffnungszeiten der Ausstellung angegeben."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["34,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["48,5 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Kunst & sorbische Volkskunst & Ausstellungsplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Einrisse (leicht, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000143_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000143",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000143"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000143",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000143-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000143_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000143"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
