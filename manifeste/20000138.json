@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000138.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000138"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000138 (a-c)"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Jan Štrawba - brigaděr brigady \"Kurt Krjeńc\" w šamotowni we Wětrowje, čłon sekretariata Zwjazkoweho předsydstwa Domowiny: - \"Wubědźowanje na česć kongresa .... při  přewjedźenju wědomostno-techniskeje rewolucije.\" - 26./27. měrca 1965 - VI. Zwjazkowy kongres Domowiny we Wojerecach"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat \"Jan Štrawba VI. zwjazkowy kongres Domowiny we Wojerecach\" - 1965"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1965"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Fotografie mit drei Männern bei der Arbeit an Ziegeln & Schrift (Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift) & rosa (Hintergrund) & schwarz - rosa (Foto)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Am 26. und 27. März 1965 fand der VI. Verbandskongress der Domowina in Hoyerswerda statt. Das Plakat zeigt Johannes Straube (Jan Štrawba) und seine Meinung zum Nutzen des Kongresses. Beschriftung in schwarzer Farbe auf rosanem Grund in obersorbischer Sprache. Rechts: schwarz-rosane Fotografie mit drei Männern bei der Arbeit an Ziegeln. Links unten: VI. Verbandskongress der Domowina in Hoyerswerda, darüber Veranstaltungsdaten 26./27. März 1965. Oben links: Name Jan Štrawba, rechts: Funktion als Brigadier der Brigade \"Kurt Krjeńc\" im Schamottenwerk Wetro und Mitglied des Verbandsvorstands. Unterhalb: kurze Stellungnahme zum Nutzen des Kongresses, z. B. Stärkung der DDR-Wirtschaft und Unterstützung der wissenschaftlich-technischen Revolution."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["24,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["59,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Geschichte & Domowina & Veranstaltungsplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["relativ gut & Faltkante (Exemplar a) & Flecken (Exemplare a/c) & Einrisse (leicht, Exemplar b)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000138_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000138",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000138"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000138",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000138-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000138_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000138"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
