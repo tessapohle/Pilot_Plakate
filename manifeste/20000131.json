@@ -1,10 +1,9 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://github.com/tessapohle/Pilot_Plakate/manifeste/20000131.json",
-
   "type": "Manifest",
   "label": { "de": ["Pilot_Erstdigitalisierung Plakate SM"] },
-
+  
   "metadata": [
     {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000131"]}},
     {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000131 (a,b)"]}},
@@ -30,10 +29,8 @@
     {"label": {"de": ["Bearbeiter"]}, "value": {"de": ["Schenk, Daniela"]}},
     {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.14"]}}
   ],
-
   "rights": "http://creativecommons.org/licenses/by/3.0/",
   "viewingDirection": "left-to-right",
-
   "items": [
     {
       "id": "https://github.com/tessapohle/Pilot_Plakate/canvas/20000131-1",
@@ -41,8 +38,6 @@
       "label": { "de": ["Pilot_Erstdigitalisierung Plakate SM"] },
       "height": 1000,
       "width": 1000,
-      
-
       "items": [
         {
           "id": "https://github.com/tessapohle/Pilot_Plakate/annotationpage/20000131-1",
@@ -53,20 +48,8 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "BILD-URL_IIIF",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 1000,
-                "width": 1000,
-                
-                "service": [
-                  {
-                    "@id": "BILD-URL_IIIF",
-                    "@type": "ImageService2",
-                    "profile": "http://iiif.io/api/image/2/level0.json",
-                  
-                  }
-                ]
+                "type": "Image"
+                /* Bild-URL und service weggelassen */
               },
               "target": "https://github.com/tessapohle/Pilot_Plakate/canvas/20000131-1"
             }
