@@ -1,0 +1,64 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000149.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000149"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000149"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["\"Agitationsplakat Wotstrońmy imperialistiskich agentow …\""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Agitationsplakat Wotstrońmy imperialistiskich … - 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Agitation"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat von 1961 sollte die Menschen in der DDR gegen Einflüsse aus West-Berlin mobilisieren. Der Text ist in obersorbischer Sprache in relativ großer schwarzer Schrift über drei Zeilen verteilt. Er ruft dazu auf, die 'imperialistischen Agenten und Menschenhändler aus West-Berlin' gemeinsam abzuwehren ('Wotstrońmy imperialistiskich - agentow a ludźikupčikow - ze zapadneho Berlina')."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["30 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["60 cm"]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["DDR Geschichte & sorbische Geschichte & Agitationsplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkanten (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.21"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000149_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000149",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000149"]},
+      "height": 1000,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000149",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000149-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000149_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 2000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000149"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
