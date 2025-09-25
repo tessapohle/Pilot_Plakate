@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000139.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000139"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000139"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Wuspěchi našeho socialistiskeho zhromadneho dźěła : - Dowol za njedźelniče podlěšimy wo tři njedźele - Renty powyšimy wot 1. Januara 1964 - Pomyslće na to 20. oktobra - a wolće kandidatow Nacionalneje fronty!"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat \"Pomyslće na to 20. oktobra\" - 1964"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1964"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["blau (Schrift)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat sollte Stimmen für die Kandidaten der Nationalen Front werben. Die Beschriftung ist in blauer Schrift und obersorbischer Sprache gehalten. Oben in kleiner kursiver Schrift werden die Erfolge der gemeinsamen sozialistischen Arbeit angekündigt ('Wuspěchi našeho socialistiskeho zhromadneho dźěła'). Darunter werden die Verlängerung des Wöchnerinnen-Urlaubs um drei Wochen ('Dowol za njedźelniče podlěšimy wo tři njedźele') und die Erhöhung der Rente vom 01. Januar 1964 ('Renty powyšimy wot 1. januara 1964') angegeben. In großer, fetter Schrift werden die Betrachter auf zwei Zeilen aufgefordert, am 20. Oktober daran zu denken und die Kandidaten der Nationalen Front zu wählen ('Pomyslće na to 20. oktobra - a wolće kandidatow Nationalneje fronty!'). Abgeschlossen wird das Plakat von einer breiten blauen Linie."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["28,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["67,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["Wahlplakat & Nationale Front & DDR Geschichte & sorbische Geschichte"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Einrisse (leicht, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000139_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000139",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000139"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000139",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000139-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000139_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000139"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
