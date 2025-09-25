@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000142.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000142"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000142"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Serbske ludowe dźiwadło - Lawreat myta Ćišinskeho - Intendant Jurij Wuješ - Hans-Dieter Schmidt - 3 x zwonić - (3 x klingeln) - Wjeselohra w 5 jednanjach - Režija: Rudolf Vedral - Jewišćowy wobraz: Walter Jahn - Hraja: Marja Ulbrichec, Marka Šramina, Jan Mar - Srjedu, dnja 27.9.1961, w Kulowje, Ludowy dom - Mittwoch, den 27.09.1961, in Wittichenau, Volkshaus - Bus wotjědźe/Bus-Abfahrt:  _______ Započatk/Beginn: 20.15 hodź./Uhr"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat - \"3 x zwonić\" - 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["rot - schwarz - weiß (Schrift) & schwarz - orange (Linie)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["1961 inszenierte das Sorbische Volkstheater das Stück \"3 x klingeln\" von Hans-Dieter Schmidt in sorbischer Sprache. Durch zwei Linien wird das Plakat in drei Teile geteilt: 1. Teil: roter Kasten, große weiße Schrift, Sorbisches Volkstheater genannt; darunter Träger des Ćišinski-Preises und Intendant Jurij Wuješ. 2. Teil: Informationen zum Stück, Autor Hans-Dieter Schmidt, deutscher Titel \"3 x klingeln\", Beschreibung als Komödie in 5 Akten, Regie Rudolf Vedral, Bühnenbild Walter Jahn, Schauspieler: Marja Ulbrichec, Marka Šramina, Jan Mar. 3. Teil: Veranstaltungsdatum 27.09.1961, Ort Volkshaus Wittichenau/Kulow, Busabfahrtszeit und Beginn 20.15 Uhr."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["30,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbsiches Theater & Theaterplakat & Sorbisches Volkstheater"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Flecken (Exemplar a) & Löcher durch Reiszwecken (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000142_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000142",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000142"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000142",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000142-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000142_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000142"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
