@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000146.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000146"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000146"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Spielzeit - Hrajna doba 1965/66 - Deutsch-Sorbisches Volkstheater Bautzen"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat \"Damy a huzarojo\" - 1965"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1965"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch) & drei Damen & vier Husaren-Köpfe"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["weiß - grün (Hintergrund) & schwarz - magenta (Schrift) & schwarz (Darstellung)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Mit dem Plakat wirbt das Deutsch-Sorbische Volkstheater für die sorbische Aufführung des Stückes \"Damen und Husaren\". Das Plakat hat einen weißen Hintergrund, durchbrochen von einer grünen, rechteckigen Fläche in der linken unteren Ecke. Oben links wird die Spielzeit 1965/66 in deutscher und obersorbischer Sprache angegeben, darunter Eberhard Sprink als Intendant. Rechts oben ist der Name des Deutsch-Sorbischen Volkstheaters in Deutsch und Obersorbisch, dazwischen die Zahl '10' in großen, magentafarbenen Ziffern. Auf dem weißen Hintergrund werden in kleiner schwarzer Schrift die Mitwirkenden genannt. In der grünen Fläche sind drei Damen in schwarzer/grüner Farbe dargestellt, darunter der obersorbische Titel 'Damy a huzarojo', der deutsche Titel 'Damen und Husaren' in Klammern. Das Stück ist eine Komödie in 3 Akten von Aleksander Fredr, Übersetzung ins Obersorbische von Anton Nawka, Regie Danuta Bleicherowna, Ausstattung Gerhard Swiglowski. Aufführung: 01. Oktober 1965, Hoyerswerda, Kastanienhof. Beginn 20.00 Uhr, Freistelle für Busabfahrt. Die Darstellung von vier Husaren-Köpfen rundet die künstlerische Gestaltung ab."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["59,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["Deutsch-Sorbisches Volkstheater & sorbisches Theater & Theaterplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["relativ gut & Faltkante (Exemplar a) & Löcher (durch Reiszwecken, Exemplar a) & Einrisse (durch Reiszwecken, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.18"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000146_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000146",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000146"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000146",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000146-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000146_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000146"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
