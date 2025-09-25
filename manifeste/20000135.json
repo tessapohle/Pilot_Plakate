@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000135.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000135"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000135"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Serbske ludowe dźiwadło - Lawreat myta Ćišinskeho - Intendant Jurij Wuješ - Aleksej Arbusow - Irkutska stawizna - (Irkutsker Geschichte) - Hra w dwěmaj dźělomaj - Režija: Milan Pasek j. h. z Hradce Králové, CSSR - Jewišćowy wobraz: - Jiři Fiala j. h. z Hradce Králové, CSSR - Januar 25 Štwórtk - Wojerecy/Hoyerswerda - Jarowči dwór/Kastanienhof - Bus wotjědźe/Bus-Abfahrt:"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat \"Irkutska stawizna\" - Wojerecy - 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["gelb - schwarz (Schrift) & grün - orange - weiß (Hintergrund)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat wirbt für die Aufführung eines Stückes von Aleksej Arbusow mit dem Titel \"Irkutska stawizna\" in einer Inszenierung des Sorbischen Volkstheaters. Die Beschriftung ist überwiegend in obersorbischer Sprache. Grüner Hintergrund mit blauen und weißen Flächen, orangene Fläche im Zentrum. Oben: Name des Theaters \"Serbske ludowe dźiwadło\" in gelben Großbuchstaben, darunter Hinweis auf Ćišinski-Preis, links darunter Intendant Jurij Wuješ in kleineren gelben Buchstaben. Weiße Fläche auf orangenen Hintergrund mit Autor und Titel in schwarzer Schrift, darunter deutscher Titel in Klammern. Unterhalb: orangener Hintergrund mit Informationen zu Stück, Inszenierung und Aufführung. Regisseur Milan Pasek (Hradce Králové, CSSR), Bühnenbild: Jiři Fiala (CSSR). Aufführungsort Hoyerswerda / Kastanienhof. Dunkelgrüne Linie trennt unteren Bereich für Busabfahrt. Links: weiße Fläche mit Aufführungsdatum Donnerstag, 25. Januar ('Januar - 25 - Štwórtk')."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["30,5 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbisches Theater & Sorbisches Volkstheater & Theaterplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Einriss (leicht, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.16"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000135_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000135",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000135"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000135",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000135-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000135_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000135"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
