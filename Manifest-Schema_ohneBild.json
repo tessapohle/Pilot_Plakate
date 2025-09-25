@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://github.com/tessapohle/Pilot_Plakate/main/manifeste/example.json",
+  "id": "https://example.org/manifest/20000131.json",
   "type": "Manifest",
   "label": { "de": ["Pilot_Plakate"] },
   "metadata": [
@@ -50,7 +50,6 @@
               "motivation": "painting",
               "body": {
                 "type": "Image"
-                /* Bild kann hier später eingefügt werden */
               },
               "target": "about:blank"
             }
