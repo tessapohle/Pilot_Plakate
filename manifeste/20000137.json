@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000137.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000137"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000137"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Rinderzuchtmeister - Martin Brytsche - LPG Drehsa Typ III - ich werde den Kandidaten der Nationalen Front .... und wird sich auch weiterhin bewähren. - Serbscy mužojo, žony a młodostni! - Zhromadnje smy dźěłali! - Zhromadnje pruwujemy docpěte! - Zhromadnje wolimy swojich nalěpšich!"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat \"Rinderzuchtmeister Martin Brytsche\" - 1963"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1963"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Foto & Schrift (Deutsch & Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift) & grün (Hintergrund)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Mit diesem Plakat von 1963 sollten die Wähler motiviert werden, die Kandidaten der Nationalen Front zu wählen. Rechts oben: schwarz-grünes Porträt von Martin Brytsche. Links daneben: Name in überdimensionierter Schrift, darüber in kleiner fettgedruckter Schrift 'Rinderzuchtmeister', darunter Betrieb LPG Drehsa Typ III. Zweite Hälfte: kurze Darstellung der Meinung Brytsches zur Wahl, u.a. vollmilchsparende Kälberaufzucht und Tbk-Freichmachung. Abschließend Aufruf in obersorbischer Sprache an die sorbische Bevölkerung: 'Serbscy mužojo, žony a młodostni! - Zhromadnje smy dźěłali! - Zhromadnje pruwujemy docpěte! - Zhromadnje wolimy swojich najlěpšich!'"]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["58,5 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["42,5 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Geschichte & DDR Geschichte & Wahlplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["relativ gut & Einrisse (Exemplar a) & Faltkante (Exemplar a) & beschädigte Ecke (unten links, Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.16"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000137_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000137",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000137"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000137",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000137-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000137_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000137"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
