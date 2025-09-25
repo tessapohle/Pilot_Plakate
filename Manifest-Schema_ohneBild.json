@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://github.com/tessapohle/Pilot_Plakate/main/manifeste/example.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Material"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": [""]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": [""]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["optional: URL oder Pfad zur Bilddatei"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "about:blank",
+      "type": "Canvas",
+      "label": {"de": ["Platzhalter-Canvas"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "about:blank",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "about:blank",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "type": "Image"
+                /* Bild kann hier später eingefügt werden */
+              },
+              "target": "about:blank"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
