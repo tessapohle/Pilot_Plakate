@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000145.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000145"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000145"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Spielzeit - Hrajna doba 1965/66 - Deutsch-Sorbisches Volkstheater Bautzen"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Theaterplakat \"Djabołske kluče\" - 1965"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1965"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch & Deutsch) & Foto"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz - blau (Schrift) & weiß - orange (Hintergrund) & schwarz - weiß - orange (Foto)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung & Information"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["Das Plakat wirbt für die sorbische Aufführung des Märchenstückes \"Des Teufels Schlüssel\" in einer Inszenierung des Deutsch-Sorbischen Volkstheaters Bautzen. Das Plakat hat einen weißen Hintergrund, durchbrochen von einer orangenen, rechteckigen Fläche in der linken unteren Ecke. Oben links wird die Spielzeit 1965/66 in deutscher und obersorbischer Sprache angegeben, darunter Eberhard Sprink als Intendant. Rechts oben befindet sich der Name des Deutsch-Sorbischen Volkstheaters in Deutsch und Obersorbisch. Die Zahl \"10\" ist in großen blauen Ziffern dargestellt. Auf dem weißen Hintergrund werden in kleiner schwarzer Schrift die Mitwirkenden, Choreografin und Musikverantwortlicher genannt. In der orangenen Fläche wird der obersorbische Titel \"Djabołske kluče\" in großer, kursiver, schwarzer Schrift genannt, darunter der deutsche Titel \"Des Teufels Schlüssel\". Das Stück wird als Märchenspiel aus Krkonoš von Miloš Gerstner beschrieben, Musik von Václav Felix, Übersetzung ins Obersorbische von Anton Nawka, Regie František Bahnik, Ausstattung Josef Feuereisel. Aufführungsdatum und -ort: 03. Oktober 1965 in Lohsa, Aula der Polytechnischen Oberschule. Beginn 20.00 Uhr, Freistelle für Busabfahrt. Rechts unten befindet sich ein Foto aus der Probenzeit in schwarz-weiß-orange, drei Männer mit Stöcken in der Hand."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["59,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbisches Theater & Deutsch-Sorbisches Volkstheater & Theaterplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000145_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000145",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000145"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000145",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000145-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000145_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000145"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
