@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000140.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000140"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000140"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["\"My Serbja chemy wo měrje dźěłać a našim dźěćom zbožowny přichod twarić! Tohodla hłosujemy 17. septembra za kandidatow Nacionalneje fronty demokratiskeje Němskeje.\" - To rjekny naš Pawoł Nowotny - direktor instituta za serbski ludospyt w Budyšinje"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat \"My Serbja chcemy…\" Kandidaten der Nationalen Front - 1961"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1961"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Schrift (Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["1961 sollte dieses Plakat Stimmen für die Kandidaten der Nationalen Front werben. Schlicht gestaltet mit schwarzer Schrift. Große Schrift: Aussage Paul Nowotnys, dass die Sorben in Frieden arbeiten und ihren Kindern eine glückliche Zukunft bauen wollen ('My Serbja chcemy wo měrje dźěłać - a našim dźěćom zbožowny přichod twarić!'). Aufforderung zur Wahl am 17. September ('Tohodla hłosujemy 17. septembra - za kandidatow Nacionalneje fronty - demokratiskeje Němskeje.'). Darunter Zuschreibung Paul Nowotny, Direktor des Instituts für sorbische Volksforschung. Abgeschlossen wird das Plakat von einer breiten schwarzen Linie."]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["22,5 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["48,2 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Geschichte & DDR Geschichte & Nationale Front & Wahlplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Einrisse (leicht, Exemplar a) & Verfärbung (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000140_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000140",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000140"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000140",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000140-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000140_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000140"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
