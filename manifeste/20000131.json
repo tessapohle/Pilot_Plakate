@@ -28,30 +28,34 @@
     {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplare a/b)"]}},
     {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
     {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.14"]}},
-    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["SM-Pl-A-000131 Abb01"]}}
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000131_Abb01.jpg"]}}
   ],
   "rights": "http://creativecommons.org/licenses/by/3.0/",
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "about:blank",
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000131",
       "type": "Canvas",
-      "label": {"de": ["Platzhalter-Canvas"]},
+      "label": {"de": ["Plakat 20000131"]},
       "height": 1000,
       "width": 1000,
       "items": [
         {
-          "id": "about:blank",
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000131",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "about:blank",
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000131-image",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "type": "Image"
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000131_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
               },
-              "target": "about:blank"
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000131"
             }
           ]
         }
