@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tessapohle.github.io/Pilot_Plakate/manifeste/20000136.json",
+  "type": "Manifest",
+  "label": { "de": ["Pilot_Plakate"] },
+  "metadata": [
+    {"label": {"de": ["ArchivSignatur"]}, "value": {"de": ["20000136"]}},
+    {"label": {"de": ["Inventarnummer"]}, "value": {"de": ["Plakat - SM-Pl-A-000136"]}},
+    {"label": {"de": ["Titel"]}, "value": {"de": ["Für den Bezirkstag kandidiert: - Genosse - Paul Holnick - 39 Jahre alt - Tätig im VEB Oberlausitzer Rohschamotte-werke und Tongruben Guttau - BGL-Vorsitzender und Sicherheitsbeauftragter - Zweifacher Aktivist - Mitglied der SED - Sorbe und Mitglied der Domowina - Es wird mir eine Verpflichtung sein, .... denn durch die Mitarbeit aller werden die größten Erfolge erzielt. - Unsere Volksabstimmung .... die Bonner Ultras zu bändigen! - Republika trjeba wšitkich - wšitcy trjebamy republiku!"]}},
+    {"label": {"de": ["Objektart"]}, "value": {"de": ["Plakat"]}},
+    {"label": {"de": ["Typ"]}, "value": {"de": ["Wahlplakat \"Für den Bezirkstag kandidiert: Genosse Paul Holnick\" - 1962"]}},
+    {"label": {"de": ["Gattung"]}, "value": {"de": ["Bildende Kunst (Plakat)"]}},
+    {"label": {"de": ["Jahr"]}, "value": {"de": ["1962"]}},
+    {"label": {"de": ["Verwahungsort"]}, "value": {"de": ["Bautzen & Budyšin"]}},
+    {"label": {"de": ["Institution"]}, "value": {"de": ["Sorbisches Museum & Serbski muzej"]}},
+    {"label": {"de": ["Archiv"]}, "value": {"de": ["Plakatarchiv"]}},
+    {"label": {"de": ["Magazin"]}, "value": {"de": ["Grafikmagazin"]}},
+    {"label": {"de": ["Sprache"]}, "value": {"de": ["Foto & Schrift (Deutsch & Obersorbisch)"]}},
+    {"label": {"de": ["Schrift"]}, "value": {"de": ["schwarz (Schrift) & blau (Hintergrund) & schwarz - blau (Foto)"]}},
+    {"label": {"de": ["Zweck"]}, "value": {"de": ["Werbung"]}},
+    {"label": {"de": ["Beschreibung"]}, "value": {"de": ["1962 sollte mit diesem Wahlplakat Stimmen für den Genossen Paul Holnick geworben werden. Das Plakat ist schlicht gestaltet, schwarze Schrift auf blauem Hintergrund, überwiegend in deutscher Sprache. Links oben: schwarz-blaues Fotoporträt von Paul Holnick. Rechts daneben Informationen zur Person: Name Paul Holnick, darüber 'Genosse', darüber in kleiner fetter Schrift Hinweis auf Kandidatur für Bezirkstag. Unter Name: Alter, Beruf (VEB Oberlausitzer Rohschamottewerke und Tongruben Guttau), BGL-Vorsitzender, Sicherheitsbeauftragter, zweifacher Aktivist, SED-Mitglied, Sorbe, Mitglied der Domowina. In der zweiten Hälfte Ziele der Kandidatur, motivierende Worte für Wähler. Wahlkampfspruch unten in größerer schwarzer Schrift und obersorbischer Sprache: 'Republika trjeba wštkich - wšitcy trjebamy republiku!'"]}},
+    {"label": {"de": ["Material"]}, "value": {"de": ["Papier"]}},
+    {"label": {"de": ["Technik"]}, "value": {"de": ["gedruckt"]}},
+    {"label": {"de": ["Höhe (cm)"]}, "value": {"de": ["60,0 cm"]}},
+    {"label": {"de": ["Breite (cm)"]}, "value": {"de": ["42,0 cm"]}},
+    {"label": {"de": ["AutorIn/KünstlerIn"]}, "value": {"de": [""]}},
+    {"label": {"de": ["Themen/Schlagworte"]}, "value": {"de": ["sorbische Geschichte & DDR Geschichte & Wahlplakat"]}},
+    {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a)"]}},
+    {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
+    {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.16"]}},
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000136_Abb01.jpg"]}}
+  ],
+  "rights": "http://creativecommons.org/licenses/by/3.0/",
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000136",
+      "type": "Canvas",
+      "label": {"de": ["Plakat 20000136"]},
+      "height": 1000,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000136",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000136-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000136_Abb01.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 1000
+              },
+              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000136"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
