@@ -37,8 +37,8 @@
       "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000131",
       "type": "Canvas",
       "label": {"de": ["Plakat 20000131"]},
-      "height": 1000,
-      "width": 1000,
+      "height": 1200,
+      "width": 800,
       "items": [
         {
           "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000131",
@@ -49,11 +49,18 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000131_Abb01.jpg",
+                "id": "https://www.sorbib.de/iiif/2/smpia%2FSM-Pl-A-000131_Abb01.jpg/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 1000,
-                "width": 1000
+                "height": 1200,
+                "width": 800,
+                "service": [
+                  {
+                    "id": "https://www.sorbib.de/iiif/2/smpia%2FSM-Pl-A-000131_Abb01.jpg",
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                ]
               },
               "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000131"
             }
