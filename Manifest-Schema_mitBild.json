@@ -56,9 +56,10 @@
                 "width": <BILD_BREITE>,
                 "service": [
                   {
+                    "@context":
                     "id": "<IIIF_BILD_URL>",
-                    "type": "ImageService3",
-                    "profile": "level2"
+                    "type": "ImageService2",
+                    "profile": "<Level-URL>"
                   }
                 ]
               },
