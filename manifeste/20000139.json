@@ -36,7 +36,7 @@
     {
       "id": "https://www.sorbib.de/iiif/canvas/SM-Pl-A-000139_Abb01",
       "type": "Canvas",
-      "label": {"de": ["SM-Pl-A-000139_Abb01.jpg"]},
+      "label": { "de": ["SM-Pl-A-000139_Abb01.jpg"] },
       "height": 1200,
       "width": 800,
       "items": [
