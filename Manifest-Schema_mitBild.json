@@ -56,10 +56,10 @@
                 "width": <BILD_BREITE>,
                 "service": [
                   {
-                    "@context":
+                    "@context": "http://iiif.io/api/image/2/context.json",
                     "id": "<IIIF_BILD_URL>",
                     "type": "ImageService2",
-                    "profile": "<Level-URL>"
+                    "profile": "http://iiif.io/api/image/2/level1.json"
                   }
                 ]
               },
