@@ -28,34 +28,40 @@
     {"label": {"de": ["Erhaltungszustand"]}, "value": {"de": ["gut & Faltkante (Exemplar a) & Einrisse (leicht, Exemplar a) & Verfärbung (Exemplar a)"]}},
     {"label": {"de": ["BearbeiterIn"]}, "value": {"de": ["Schenk, Daniela"]}},
     {"label": {"de": ["Erfassungsdatum"]}, "value": {"de": ["2015.09.17"]}},
-    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000140_Abb01.jpg"]}}
+    {"label": {"de": ["Bilddatei"]}, "value": {"de": ["https://www.sorbib.de/iiif/2/smpia%2FSM-Pl-A-000140_Abb01.jpg/full/full/0/default.jpg"]}}
   ],
   "rights": "http://creativecommons.org/licenses/by/3.0/",
   "viewingDirection": "left-to-right",
   "items": [
     {
-      "id": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000140",
+      "id": "https://www.sorbib.de/iiif/canvas/SM-Pl-A-000140_Abb01",
       "type": "Canvas",
-      "label": {"de": ["Plakat 20000140"]},
-      "height": 1000,
-      "width": 1000,
+      "label": {"de": ["SM-Pl-A-000140_Abb01.jpg"]},
+      "height": 1200,
+      "width": 800,
       "items": [
         {
-          "id": "https://tessapohle.github.io/Pilot_Plakate/annotationpage/20000140",
+          "id": "https://www.sorbib.de/iiif/annotationpage/SM-Pl-A-000140_Abb01",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tessapohle.github.io/Pilot_Plakate/annotation/20000140-image",
+              "id": "https://www.sorbib.de/iiif/annotation/SM-Pl-A-000140_Abb01",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://tessapohle.github.io/Pilot_Plakate/images/SM-Pl-A-000140_Abb01.jpg",
+                "id": "https://www.sorbib.de/iiif/2/smpia%2FSM-Pl-A-000140_Abb01.jpg/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "height": 1000,
-                "width": 1000
+                "height": 1200,
+                "width": 800,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "id": "https://www.sorbib.de/iiif/2/smpia%2FSM-Pl-A-000140_Abb01.jpg",
+                  "type": "ImageService2",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
               },
-              "target": "https://tessapohle.github.io/Pilot_Plakate/canvas/20000140"
+              "target": "https://www.sorbib.de/iiif/canvas/SM-Pl-A-000140_Abb01"
             }
           ]
         }
