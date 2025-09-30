@@ -26,6 +26,6 @@ Studiengang: M.A. Digital Humanities
 **Abgabedatum:** 30.09.2025
 
 ***
-Unter **files** findt sich eine Anleitung zur Anpassung der Schemata.
+Unter **files** findt sich das Datenpacket des Portfolios.
 
 Unter **manifests** liegen die 20 Plakat-Manifeste mit eingebetteten IIIF-Bild-URLs ab.
