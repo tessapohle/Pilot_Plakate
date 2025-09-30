@@ -1,4 +1,4 @@
-**Hier liegen alle Dokumente des Datenpakets ab:**
+** Hier liegen alle Dokumente des Datenpakets ab: **
 
 1. Projektbericht
 
