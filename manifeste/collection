@@ -1,0 +1,195 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/collection/pilot_plakate_collection.json",
+  "type": "Collection",
+  "label": {
+    "de": [
+      "Pilot Plakate – Sammlung aller Manifeste"
+    ],
+    "en": [
+      "Pilot Posters – Collection of all Manifests"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000131.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000131"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000132.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000132"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000133.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000133"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000134.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000134"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000135.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000135"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000136.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000136"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000137.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000137"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000138.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000138"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000139.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000139"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000140.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000140"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000141.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000141"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000142.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000142"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000143.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000143"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000144.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000144"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000145.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000145"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000146.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000146"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000147.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000147"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000148.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000148"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000149.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000149"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/tessapohle/Pilot_Plakate/main/manifeste/20000150.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "20000150"
+        ]
+      }
+    }
+  ]
+}
